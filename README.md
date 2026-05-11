@@ -58,4 +58,5 @@ jupyter notebook
 ```
 
 ## Author
-Your Name
+Amitha U S
+
